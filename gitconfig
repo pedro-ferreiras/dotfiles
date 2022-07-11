@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pedrom2ferreira@gmail.com
+	name = Pedro Ferreira
